@@ -1,0 +1,7 @@
+{
+  "fetch": "0.3.6",
+  "iconv": "2.1.6",
+  "google": "1.1.0",
+  "coinapi": "https://github.com/Orbs/coinapi/archive/57b730615dd065c012ffe7bed2349cf39ec317ca.tar.gz",
+  "crypto": "0.0.3"
+}
